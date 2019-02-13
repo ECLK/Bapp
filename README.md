@@ -27,3 +27,5 @@ The base app of the Election system to connect all the services get-together and
 ## Deployment Architecture
 
 ![alt text](https://github.com/ECLK/Bapp/blob/master/Deployment%20architecture%20v1.png)
+
+source file : https://docs.google.com/drawings/d/18sgb7BD--Q0aVJ3xsauPhZueGtfYc42SN5l7KNnI99w/edit?usp=sharing
